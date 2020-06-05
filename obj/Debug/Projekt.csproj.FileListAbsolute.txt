@@ -1,0 +1,30 @@
+C:\Users\Piotr\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Piotr\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Piotr\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Piotr\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+D:\Pobrane\DBD project\Projekt\Projekt\bin\Debug\Projekt.exe.config
+D:\Pobrane\DBD project\Projekt\Projekt\bin\Debug\Projekt.exe
+D:\Pobrane\DBD project\Projekt\Projekt\bin\Debug\Projekt.pdb
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.exe
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.pdb
+D:\Pobrane\DBD project\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Piotr\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Piotr\Desktop\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Piotr\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
